@@ -1,0 +1,17 @@
+{
+  "name": "bd2_und2_tar2",
+  "version": "1.0.0",
+  "description": "Nesta tarefa, você vai experimentar como um framework objeto-relacional pode ajudar o acesso ao banco de dados a partir de sua linguagem de servidor. Você deve implementar ações básicas para persistir dados sobre o seu objeto tema e sobre os usuários administradores do sistema.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql2": "^3.14.0",
+    "sequelize": "^6.37.6"
+  }
+}
